@@ -1,0 +1,4 @@
+name: VirtualLibrary
+version: '${version}'
+main: dev.katie.virtuallibrary.VirtualLibrary
+api-version: 1.20
